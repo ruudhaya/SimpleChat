@@ -1,0 +1,2 @@
+File created for only one purpose
+- unable to commit empty folders into repo
