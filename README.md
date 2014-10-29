@@ -4,7 +4,7 @@ SimpleChat
 Chat server and client implementation - With self defined protocol
 
 Contents of the package (kind of micro project)
-Done by Udhay, Anbil and Raja for the TCPIP subject during second year of our MCA Course in PSG College of technology, Coimbatore.
+Done by Udhay, Anbil and Raja for the TCPIP subject during second year of our MCA Course in PSG College of technology, Coimbatore. On 2008
 
 Did with a minimum effort - 8 hours of work
 
